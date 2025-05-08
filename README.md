@@ -23,5 +23,5 @@ I'm a  **Software Engineering student** with a passion for building clean, scala
 
 ---
 
-> _ "It's a dangerous business, going out your door."-
+> _"It's a dangerous business, going out your door."_
 > - J.R.R. Tolkien
