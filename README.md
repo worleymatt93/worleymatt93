@@ -3,7 +3,7 @@
 I'm a  **Software Engineering student** with a passion for building clean, scalable sysems. I enjoy pushing my boundaries through new technologies.
 
 ### 🧠 Recent Milestone
-- ✅ **AWS Certified Cloud Practitioner** (2025)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/dc100fc8-1a63-4017-b8b2-fe69ee53c406)
 
 ### 🌱 Currently learning
 - **JavaScript**
