@@ -2,6 +2,9 @@
 
 I'm a  **Software Engineering student** with a passion for building clean, scalable sysems. I enjoy pushing my boundaries through new technologies.
 
+### 🧠 Recent Milestone
+- ✅ **AWS Certified Cloud Practitioner** (2025)
+
 ### 🌱 Currently learning
 - **JavaScript**
 - **Python**
