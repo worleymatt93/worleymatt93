@@ -1,5 +1,27 @@
-- 👋 Hi, I’m @worleymatt93
-- 🎓 Software Engineering student
-- 🌱 Currently learning: AWS, Docker, and Python 
-- 📫 Reach out to me on LinkedIn: https://www.linkedin.com/in/matthew-worley-dev/
-- ⚡ It's a dangerous business, going out your door.
+# 👋 Hi there, I'm Matt Worley
+
+I'm a  **Software Engineering student** with a passion for building clean, scalable sysems. I enjoy pushing my boundaries through new technologies.
+
+### 🌱 Currently learning
+- **JavaScript**
+- **Python**
+- **Docker**
+
+### 🛠️ Tech I'm Familiar With
+- Java, Python, Javascript, HTML/CSS
+- Git & Github
+
+### 🚧 Projects & Interests
+- Automating tasks and workflows with Python
+- Self-hosted services with Docker on Linux
+- Building secure, user-friendly web apps
+- Playing D&D and tinkering with home lab setups
+
+### 📫 Connect With Me
+- [LinkedIn] (https://www.linkedin.com/in/matthew-worley-dev/)
+
+
+---
+
+> _ "It's a dangerous business, going out your door."-
+> - J.R.R. Tolkien
