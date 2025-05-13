@@ -21,7 +21,7 @@ I'm a  **Software Engineering student** with a passion for building clean, scala
 - Playing D&D and tinkering with home lab setups
 
 ### 📫 Connect With Me
-- [LinkedIn] (https://www.linkedin.com/in/matthew-worley-dev/)
+- [LinkedIn](https://www.linkedin.com/in/matthew-worley-dev/)
 
 
 ---
