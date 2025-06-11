@@ -8,10 +8,10 @@ I'm a  **Software Engineering student** with a passion for building clean, scala
 ### 🌱 Currently learning
 - **JavaScript**
 - **Python**
-- **Docker**
+- **SQL**
 
 ### 🛠️ Tech I'm Familiar With
-- Java, Python, Javascript, HTML/CSS
+- Java, Python, Javascript, HTML/CSS, SQL
 - Git & Github
 
 ### 🚧 Projects & Interests
